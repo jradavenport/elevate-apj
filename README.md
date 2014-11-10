@@ -48,3 +48,4 @@ To do the web version I need people who have skills. Should we try to use Markdo
 
 ### Resources/Links
 - http://www.paulolyslager.com/optimal-text-layout-line-length/
+- http://www.dyslexiefont.com
