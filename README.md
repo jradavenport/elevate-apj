@@ -5,8 +5,8 @@ elevate-apj
 
 
 ### The problem...
-![Old and Busted](old.png?raw=true)
 
+<img align="right" src="old.png">
 The design for most journal articles in astronomy is a two-column, highly condensed layout. This format makes efficient use of paper, which in turn reduces printing costs. The narrow columns are also easy to read/parse, like that of a newspaper. 
 
 Nearly all journals are changing to an online-only form of publication. This raises two important issues:
