@@ -5,7 +5,9 @@ elevate-apj
 
 
 ### The problem...
-They design for most journal articles in astronomy is a two-column, highly condensed layout. This format makes efficient use of paper, which in turn reduces printing costs. The narrow columns are also easy to read/parse, like that of a newspaper. 
+![Old and Busted](old.png?raw=true)
+
+The design for most journal articles in astronomy is a two-column, highly condensed layout. This format makes efficient use of paper, which in turn reduces printing costs. The narrow columns are also easy to read/parse, like that of a newspaper. 
 
 Nearly all journals are changing to an online-only form of publication. This raises two important issues:
 
@@ -13,8 +15,6 @@ Nearly all journals are changing to an online-only form of publication. This rai
 2. The PDF versions of the articles look great on paper, but are difficult to read on a computer screen due to their layout.
 
 In effect journal articles are *not* becoming online-only, they're just outsourcing the printing job to their readers. **Paper is still the best medium to read astronomy journal articles today due to the article layout.**
-
-![Old and Busted](old.png?raw=true)
 
 ### We can ~~fix~~ improve this!
 
