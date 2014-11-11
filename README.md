@@ -46,6 +46,7 @@ I can do some hacking in LaTeX, but other expertise/thoughts would be incredibly
 To do the web version I need people who have skills. Should we try to use Markdown and MathJax? Generate a Jekyll/CSS/somethingelse template? Brute force?
 
 
-### Resources/Links
+### Resources/Links/Thoughts
 - http://www.paulolyslager.com/optimal-text-layout-line-length/
 - http://www.dyslexiefont.com
+- https://www.authorea.com
