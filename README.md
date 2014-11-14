@@ -51,3 +51,4 @@ To do the web version I need people who have skills. Should we try to use Markdo
 - http://www.dyslexiefont.com
 - https://www.authorea.com
 - http://www.nngroup.com/articles/avoid-pdf-for-on-screen-reading/
+- https://medium.com/the-physics-arxiv-blog
