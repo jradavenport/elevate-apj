@@ -50,3 +50,4 @@ To do the web version I need people who have skills. Should we try to use Markdo
 - http://www.paulolyslager.com/optimal-text-layout-line-length/
 - http://www.dyslexiefont.com
 - https://www.authorea.com
+- http://www.nngroup.com/articles/avoid-pdf-for-on-screen-reading/
