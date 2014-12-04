@@ -37,7 +37,7 @@ To accomplish this we must:
 - discuss and create a new design for journal articles
 - hack together a really sloppy implementation of this design in LaTeX
 - take the sources files for an article formatted with [emulateapj](http://hea-www.harvard.edu/~alexey/emulateapj/) (probably from the arXiv) and apply this new design
-- (time/skill permitting) format the article for the web as well. 
+- Try to generate the article for the web as well using the new [**WebTeX engine!**](https://github.com/pkgw/webtex)
 
 I can sketch the design, but would love more people to discuss them with. Perhaps each person took a screenshot of an article or website they thought was a format inspiration? Design on a white board if possible
 
@@ -47,8 +47,15 @@ To do the web version I need people who have skills. Should we try to use Markdo
 
 
 ### Resources/Links/Thoughts
+<<<<<<< HEAD
+- [http://aas.org/media/press-releases/american-astronomical-society-journals-going-electronic-only]()
+- [http://www.paulolyslager.com/optimal-text-layout-line-length/]()
+- [http://www.dyslexiefont.com]()
+- [https://www.authorea.com]()
+=======
 - http://www.paulolyslager.com/optimal-text-layout-line-length/
 - http://www.dyslexiefont.com
 - https://www.authorea.com
 - http://www.nngroup.com/articles/avoid-pdf-for-on-screen-reading/
 - https://medium.com/the-physics-arxiv-blog
+>>>>>>> 9bf66234ab6ac010ae610cbc1c518db8655b710e
