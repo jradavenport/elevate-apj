@@ -11,8 +11,8 @@ Some article-related hacks: Stuart Lynn made a great [demo](http://openjournals.
 
 For my part I spent hacking time on reformatting some journal articles in to a format that is easier to read on my iPad! This was the **minimum-effort** path to making an article more readable.
 
-**Here's a screenshot:**
-<img src="newton.jpg">
+[**Here's a screenshot!**](newton2014.jpg)
+
 
 I generated this from Elizabth Newton's latest paper source on [the arXiv](http://arxiv.org/abs/1412.2758) by changing the first two lines in the .tex file to:
 
