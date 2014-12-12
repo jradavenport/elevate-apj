@@ -34,7 +34,7 @@ If you want to see a PDF file of my [most recent](http://arxiv.org/abs/1411.3723
 
 - Some image viewers automatically scale to the document *height*... which makes for a funny UX at first.
 
-
+![](http://img.shields.io/badge/Built%20at-%23dotastro-blue.svg)
 
 <hr>
 
